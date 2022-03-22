@@ -1,3 +1,4 @@
 /.idea/*
 !/.idea/runConfigurations
 .gradle/
+ex1/img/jre/
