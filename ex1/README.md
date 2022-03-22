@@ -1,0 +1,1 @@
+- This shows simple example how to run spring boot application in docker with portable intellij run config
