@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ex2" type="CompoundRunConfigurationType">
+    <toRun name="ex2.first" type="SpringBootApplicationConfigurationType" />
+    <toRun name="ex2.second" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>
