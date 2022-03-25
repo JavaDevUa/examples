@@ -1,0 +1,1 @@
+This can be omitted as it just connects to db and make a select, that's all
