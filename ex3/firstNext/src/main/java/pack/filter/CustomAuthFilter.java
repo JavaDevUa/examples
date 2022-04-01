@@ -42,7 +42,6 @@ public class CustomAuthFilter extends UsernamePasswordAuthenticationFilter {
         logger.info("Password is: " + password);
         UsernamePasswordAuthenticationToken authenticationToken = new UsernamePasswordAuthenticationToken(username, password);
         return authenticationManager.authenticate(authenticationToken);
-//        return super.attemptAuthentication(request, response);
     }
 
     @Override

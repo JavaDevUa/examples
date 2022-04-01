@@ -9,3 +9,14 @@
 - That's it, example of security
 
 Good example of spring sec, amigoscode
+
+database is at localhost:8080/h2
+This is the database to connect to: jdbc:h2:mem:testdb
+login: sa
+password:
+
+
+
+---------- this one, not sure about stuff, I think I did sample with default jdbcAuthProvider
+
+/localhost:8080/adm    adm user can and other user can
